@@ -1,0 +1,74 @@
+.btn{
+    padding-right:  0.25rem;
+    padding-left: 0.25rem;
+    width: 70%;
+    border: none;
+    font-size: 20px;
+    color: white;
+    background-color: #C6A969;
+    padding: 10px;
+}
+.btn a:hover {
+    background-color: #C6A969;
+}
+
+.hr1 {
+    border: 3px solid;  
+    color: #D04848;
+}
+
+.card {
+    margin: 15px;
+    padding:5px;
+    box-shadow: 25px -16px #D04848;
+}
+.h4t {
+    color: white;
+    text-align: center;
+    margin-top: -15px;
+}
+
+.circle-img{
+    width: 200px;
+    height: 200px;
+    clip-path:circle(40%);
+    
+        /*置中*/
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
+    margin-top: -20px;
+}
+
+.tog-imag{
+    height: 200px;
+    width:100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-top-left-radius: 15%;
+    border-top-right-radius: 15%;
+}
+
+.left img {
+	border-radius: 50%;
+	border: 6px solid rgba(238, 82, 111, 0.3);
+	display: block; 
+	margin: auto;	
+}
+
+.list-menu {
+	font-weight: bolder;
+	background: white;
+	border-radius: 10px;
+	margin-bottom: 5px;
+	line-height: 2;
+	padding: 0.5em;
+}
+.list-menu a {
+	  color:#6f7426;
+}
+.list-menu a:hover {
+	font-size:130%;
+}
